@@ -8,7 +8,7 @@ A modern, high-performance animated landing page built with **React 19**, **GSAP
 
 ## 🚀 Demo
 
-[Live Preview]((https://gasp-project-beige.vercel.app/))] <!-- Replace with actual demo link if available -->
+[Live Preview](https://gasp-project-beige.vercel.app/) <!-- Replace with actual demo link if available -->
 
 ---
 
