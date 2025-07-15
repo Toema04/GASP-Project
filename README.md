@@ -25,7 +25,8 @@ A modern, high-performance animated landing page built with **React 19**, **GSAP
 
 ## 📸 Screenshots
 
-![1234](Uploading screencapture-gasp-project-beige-vercel-app-2025-07-15-18_58_50.png…)
+
+![Uploading screencapture-gasp-project-beige-vercel-app-2025-07-15-18_58_50.png…]()
 
 
 ---
